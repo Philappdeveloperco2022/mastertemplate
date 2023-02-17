@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1098847609913-sv685rd5jra7o29mctu73ne45eadhf5q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1098847609913-sv685rd5jra7o29mctu73ne45eadhf5q</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1098847609913-3rfh6u8g3qk8mpi5bs1qiedtb3hmpfs7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC_hIqzOsubg5gWwfeZ8sTQx8cpq2azxcw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1098847609913</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.masteremasterpice.io</string>
+	<key>PROJECT_ID</key>
+	<string>pricemart23-fc3a2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pricemart23-fc3a2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1098847609913:ios:0c9003b44de238956199e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://pricemart23-fc3a2-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
